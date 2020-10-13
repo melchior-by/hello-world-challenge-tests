@@ -11,7 +11,7 @@
 
     <properties>
         <cucumber.version>6.1.1</cucumber.version>
-        <junit.version>4.13</junit.version>
+        <junit.version>4.13.1</junit.version>
         <rest-assured.version>4.3.0</rest-assured.version>
         <org-json.version>20200518</org-json.version>
         <jackson-databind.version>2.11.0</jackson-databind.version>
