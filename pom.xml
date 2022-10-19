@@ -14,7 +14,7 @@
         <junit.version>4.13</junit.version>
         <rest-assured.version>4.3.0</rest-assured.version>
         <org-json.version>20200518</org-json.version>
-        <jackson-databind.version>2.11.0</jackson-databind.version>
+        <jackson-databind.version>2.13.4.1</jackson-databind.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
